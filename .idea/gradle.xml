@@ -6,14 +6,18 @@
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
         <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="WRAPPED" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-7.0" />
-        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../Gradle/gradle-7.2" />
+        <option name="gradleJvm" value="11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Simple Chatty Bot/task" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Checked exception with constructor" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/DriverNotReadyException" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Square class" />
+            <option value="$PROJECT_DIR$/Topics/Custom exceptions/Theory" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Days of the week" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/The root of a number" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Theory" />
